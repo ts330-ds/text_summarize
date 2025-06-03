@@ -20,31 +20,6 @@ A full-stack application that performs text summarization using a Hugging Face T
 
 ---
 
-## 📋 Table of Contents
-
-1. [Features](#-features)  
-2. [Tech Stack](#-tech-stack)  
-3. [Prerequisites](#-prerequisites)  
-4. [Repository Structure](#-repository-structure)  
-5. [Backend Setup (FastAPI)](#-backend-setup-fastapi)  
-   - [1. Clone & Create Virtual Environment](#1-clone--create-virtual-environment)  
-   - [2. Install Dependencies](#2-install-dependencies)  
-   - [3. Configure Environment Variables](#3-configure-environment-variables)  
-   - [4. Run the FastAPI Server](#4-run-the-fastapi-server)  
-   - [5. API Reference](#5-api-reference)  
-6. [Frontend Setup (Flutter)](#-frontend-setup-flutter)  
-   - [1. Install Flutter SDK](#1-install-flutter-sdk)  
-   - [2. Clone & Navigate](#2-clone--navigate)  
-   - [3. Install Flutter Packages](#3-install-flutter-packages)  
-   - [4. Configure API Base URL](#4-configure-api-base-url)  
-   - [5. Run the Flutter App](#5-run-the-flutter-app)  
-7. [Usage Examples](#-usage-examples)  
-8. [Troubleshooting & Tips](#-troubleshooting--tips)  
-9. [Contributing](#-contributing)  
-10. [License](#-license)
-
----
-
 ## ✨ Features
 
 - **Text Summarization**: Uses a state-of-the-art Hugging Face Transformer model to generate concise summaries.  
