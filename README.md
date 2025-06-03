@@ -62,7 +62,3 @@ A full-stack application that performs text summarization using a Hugging Face T
   - Compatible IDE (VS Code, Android Studio) or CLI  
   - Android SDK / iOS toolchain for device/emulator deployment  
 
----
-
-## 📂 Repository Structure
-
